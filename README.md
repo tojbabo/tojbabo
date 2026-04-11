@@ -1,6 +1,7 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/apitype=waving&color=gradient&height=180&text=Onejoon's%20world&animation=&fontColor=ffffff&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Onejoon's%20world&animation=&fontColor=ffffff&fontSize=50" />
 </div>
+
 <div align= "center">
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Skills </h2> <br> 
 <div style="margin: 0 auto; text-align: center;" align= "center"> 
