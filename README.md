@@ -16,7 +16,6 @@
 
 저의 데이터를 수집하고 API 서비스로 제공하는 시스템을 구축하기 위한 개인 프로젝트 입니다.
 <p align="center">──────────</p>
-<hr style="border: 0; height: 1px; background: #d0d7de;">
 
 ## 💼 Commercial Projects
 
@@ -31,7 +30,6 @@
 
 소규모대기배출시설 사업장을 대상으로 데이터 수집, 프로토콜 연동 및 원격 관리를 지원하는 IoT Gateway 제품 개발 프로젝트
 <p align="center">──────────</p>
-<hr style="border: 0; height: 1px; background: #d0d7de;">
 
 ### [AI SmartHome Platform](https://github.com/your-id/wallpad-public)
 
@@ -44,7 +42,10 @@
 </p>
 AI 기반 스마트홈 서비스 제공을 위한 월패드·모바일 연동 플랫폼 개발 프로젝트
 <p align="center">──────────</p>
-<hr style="border: 0; height: 1px; background: #d0d7de;">
+
+<hr style="border: 0; height: 1px; background: #c9d1d9;">
+<div style="height: 1px; background: #c9d1d9;"></div>
+
 
 <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Skills </h2> <br> 
