@@ -44,6 +44,7 @@ AI 기반 스마트홈 서비스 제공을 위한 월패드·모바일 연동 �
 <p align="center">──────────</p>
 
 <hr style="border: 0; height: 1px; background: #c9d1d9;">
+dfsd
 <div style="height: 1px; background: #c9d1d9;"></div>
 
 
