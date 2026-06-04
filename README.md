@@ -4,8 +4,8 @@
 
 ## 🧪 Personal Projects
 
-### [web front](https://github.com/your-id/wmiot-g01-public) / [api backend](https://github.com/your-id/wmiot-g01-public)
-<p style="margin-bottom:0">
+### [web front](https://github.com/tojbabo/front-ojjj-api) / [api backend](https://github.com/tojbabo/ojjj-api)
+<p style="margin-bottom:0;">
     <img src="https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB">
     /
@@ -19,26 +19,26 @@
 
 ## 💼 Commercial Projects 
 
-#### [Industrial IoT Gateway System](https://github.com/your-id/wmiot-g01-public) 
-<p style="margin-bottom:0">
+### [Industrial IoT Gateway System](https://github.com/tojbabo/sample-wmiot-g01) 
+<p style="margin-bottom:0;">
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" />
     <img src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=white">
 </p>
-<p>소규모대기배출시설 사업장을 대상으로 데이터 수집, 프로토콜 연동 및 원격 관리를 지원하는 IoT Gateway 제품 개발 프로젝트</p>
+소규모대기배출시설 사업장을 대상으로 데이터 수집, 프로토콜 연동 및 원격 관리를 지원하는 IoT Gateway 제품 개발 프로젝트
 
 <br>
 
-#### [AI SmartHome Platform](https://github.com/your-id/wallpad-public)
-<p style="margin-bottom:0">
+### [AI SmartHome Platform](https://github.com/tojbabo/sample-zipsai)
+<p style="margin-bottom:0;">
     <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white" />
     <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
     <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" />
     <img src="https://img.shields.io/badge/InfluxDB-22ADF6?logo=InfluxDB&logoColor=white">
 </p>
-<p>AI 기반 스마트홈 서비스 제공을 위한 월패드·모바일 연동 플랫폼 개발 프로젝트</p>
+AI 기반 스마트홈 서비스 제공을 위한 월패드·모바일 연동 플랫폼 개발 프로젝트
 
 <br>
 
