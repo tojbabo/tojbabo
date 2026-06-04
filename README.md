@@ -12,8 +12,9 @@
     <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?logo=nestjs&logoColor=white">
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white">
 </p>
-
+<p style="margin : 0; padding:0;">
 저의 데이터를 수집하고 API 서비스로 제공하는 시스템을 구축하기 위한 개인 프로젝트 입니다.
+</p>
 
 <br><br>
 
@@ -26,7 +27,9 @@
     <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" />
     <img src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=white">
 </p>
+<p style="margin : 0;">
 소규모대기배출시설 사업장을 대상으로 데이터 수집, 프로토콜 연동 및 원격 관리를 지원하는 IoT Gateway 제품 개발 프로젝트
+</p>
 
 <br>
 
@@ -38,7 +41,9 @@
     <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" />
     <img src="https://img.shields.io/badge/InfluxDB-22ADF6?logo=InfluxDB&logoColor=white">
 </p>
+<p style="margin : 0;">
 AI 기반 스마트홈 서비스 제공을 위한 월패드·모바일 연동 플랫폼 개발 프로젝트
+</p>
 
 <br>
 
